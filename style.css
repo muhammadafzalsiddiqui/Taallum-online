@@ -1,0 +1,94 @@
+/* body{
+    background-color: #CCFF90;;
+} */
+
+*{
+    padding: 0px;
+    margin: 0px;
+    
+}
+ul li{
+    list-style: none;
+    
+    
+}
+/* a{
+    text-decoration: overline;
+} */
+/* a:hover{
+    background-color: aqua;
+} */
+li a{
+    text-decoration: none;
+}
+.facebook:hover{
+    background-color: #248ff2;
+}
+.bluer{
+    box-shadow: 10px 10px 10px #c3c6c9;
+}
+.boder{
+    border-radius: 50px 50px;
+}
+.boderr{
+    border-radius: 50px 50px 0px 0px;;
+}
+
+.maincolor{
+background-color: #356859;
+}
+.tcolor{
+    color: #356859;
+    text-shadow: 5px 5px 5px  #c3c6c9;
+    font-size: 40px;
+    text-transform: uppercase;
+    
+}
+
+
+.navbar-text{
+    font-weight:bold !important;
+}
+
+
+.nav-link{
+    color: #ffffff !important
+
+}
+
+.nav-link:hover{
+    background-color: #ffffff!important;
+    box-shadow: 0px 0px 15px #c3c6c9;
+    color:#fff;
+    
+}
+
+
+
+
+.card-body{
+    color: #ffffff !important;
+    background-color: #356859;
+    border-radius: 0px 0px 40px 40px;
+    
+}
+.seprataor{
+    width: 70px;
+    height: 2px;
+    display: block;
+    background-color:#CE6B22 ;
+}
+.tex{
+    color: #356859;
+}
+.secondcolor{
+    color:#CE6B22;
+
+}
+.backgroundcolor{
+    background-color:#CE6B22;
+
+}
+.golden{
+    color: #ffe54f;
+}
